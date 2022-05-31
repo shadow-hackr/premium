@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-Recode shadow hacker
+Recode 
 Versi 5.8
 import time,os
 
