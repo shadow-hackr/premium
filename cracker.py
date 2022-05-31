@@ -47,7 +47,7 @@ elif "kuning" in tema:
 balmond = h+">"+k+"><"+h+"<"
 
 try:
-import concurrent.futures
+import futures
 except ImportError:
 	os.system("clear")
 	print("\n"+balmond+m+" Module Futures not yet install, Run pip install futures")
