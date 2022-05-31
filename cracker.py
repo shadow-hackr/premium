@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-Recode 
-Versi 5.8
+
+
 import time,os
 
 try:
@@ -14,7 +14,7 @@ if "default" in tema:
         h = "\33[1;92m" # hijau
         k = "\33[1;93m" # kuning
         b = "\33[1;94m" # biru
-        u = "\33[1;95m" # ungu
+        u = "\33[1;95m" # ung
         s = "\33[1;96m" # biru muda
 elif "biru" in tema:
         p = "\33[1;97m" # putih
